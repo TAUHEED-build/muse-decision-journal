@@ -1,0 +1,6 @@
+{
+  "name": "MUSE — AI Decision Journal",
+  "description": "A calm, minimalist AI decision journal that challenges assumptions, structures reasoning, and calibrates your judgment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
